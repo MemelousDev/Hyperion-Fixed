@@ -1,6 +1,6 @@
 #include <iostream>
 #include "elretardo.h"
 
-void main() {
+int main() {
    std::cout << "I may actually give it, idk" << std::endl;
 }
